@@ -5,7 +5,7 @@ Bagaimana cara untuk menambahkan Komponen di halaman Ionic? Jelaskan secara deta
 ```
 ionic start tugas6
 ```   
-3.	Buka folder Pada VSCode lalu pada terminal ketikkan
+2.	Buka folder Pada VSCode lalu pada terminal ketikkan
    ```
 ionic serve
 ```
