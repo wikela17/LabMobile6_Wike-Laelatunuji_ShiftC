@@ -25,6 +25,7 @@ ionic serve
 Langkah 3: Styling Komponen
 1.	Buka File SCSS yang sesuai, misalnya home.page.scss.
 2.	Tambahkan Styling sesuai kebutuhan. Contoh:
+   ```
 ion-card {
   margin: 20px;
   border-radius: 15px;
@@ -35,9 +36,13 @@ ion-card-title {
   font-size: 1.5em;
   color: #6a1b9a;
 }
+```
+
 Langkah 4: Jalankan Aplikasi
 Setelah menambahkan komponen dan styling, jalankan kembali aplikasi untuk melihat perubahan:
+```
 ionic serve
+```
 
 screenshoot tampilan:
 
