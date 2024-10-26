@@ -2,9 +2,13 @@ Bagaimana cara untuk menambahkan Komponen di halaman Ionic? Jelaskan secara deta
 
  Langkah 1: Persiapkan Proyek Ionic
 1.	Buat Proyek Ionic Baru di terminal
-ionic start tugas6   
-2.	Buka folder Pada VSCode lalu pada terminal ketikkan
+```
+ionic start tugas6
+```   
+3.	Buka folder Pada VSCode lalu pada terminal ketikkan
+   ```
 ionic serve
+```
 
  Langkah 2: Tambahkan Komponen ke Halaman
 1.	Buka File Halaman yang ingin Anda tambahkan komponen, misalnya home.page.html.
