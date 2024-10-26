@@ -9,6 +9,7 @@ ionic serve
  Langkah 2: Tambahkan Komponen ke Halaman
 1.	Buka File Halaman yang ingin Anda tambahkan komponen, misalnya home.page.html.
 2.	Tambahkan Komponen yang diinginkan ke dalam file HTML. Contoh menambahkan ion-card:
+''
 <ion-content>
   <ion-card>
     <ion-card-header>
@@ -20,7 +21,7 @@ ionic serve
     </ion-card-content>
   </ion-card>
 </ion-content>
-
+''
 Langkah 3: Styling Komponen
 1.	Buka File SCSS yang sesuai, misalnya home.page.scss.
 2.	Tambahkan Styling sesuai kebutuhan. Contoh:
@@ -38,5 +39,8 @@ Langkah 4: Jalankan Aplikasi
 Setelah menambahkan komponen dan styling, jalankan kembali aplikasi untuk melihat perubahan:
 ionic serve
 
-screenshoottampilan:
+screenshoot tampilan:
+
+![Screenshot 2024-10-26 152929](https://github.com/user-attachments/assets/fcd810c4-c164-430c-a94e-5f979337dc7a)
+
 
